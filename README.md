@@ -9,3 +9,4 @@ Some of these projects may have been moved to dedicated repos for easier access:
  * [morsekeyer](https://github.com/svofski/morsekeyer) Automatic morse key based on MSP430
  * [bargraphnik](https://github.com/svofski/bargraphnik) 20-band music visualiser with nixie tubes
  * [yamashnik](https://github.com/svofski/yamashnik) Yamaha YIS-503/IIIR MSX-2 MSX-Link hardware and software
+ * [cartuchnik](https://github.com/svofski/cartuchnik) Flash cartridge for Vectrex console that uses internal flash of LPC1769 for storage
