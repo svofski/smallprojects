@@ -5,3 +5,4 @@ This is an archive of old projects that used to be on google code. Usually these
 
 Some of these projects may have been moved to dedicated repos for easier access: 
  * [satashnik](https://github.com/svofski/satashnik) IN-2 nixie clock
+ * [bkvideo](https://github.com/svofski/bkvideo) USB video capture for BK-0010
