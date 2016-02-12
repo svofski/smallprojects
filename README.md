@@ -7,3 +7,4 @@ Some of these projects may have been moved to dedicated repos for easier access:
  * [satashnik](https://github.com/svofski/satashnik) IN-2 nixie clock
  * [bkvideo](https://github.com/svofski/bkvideo) USB video capture for BK-0010
  * [morsekeyer](https://github.com/svofski/morsekeyer) Automatic morse key based on MSP430
+ * [bargraphnik](https://github.com/svofski/bargraphnik) 20-band music visualiser with nixie tubes
