@@ -11,3 +11,4 @@ Some of these projects may have been moved to dedicated repos for easier access:
  * [yamashnik](https://github.com/svofski/yamashnik) Yamaha YIS-503/IIIR MSX-2 MSX-Link hardware and software
  * [cartuchnik](https://github.com/svofski/cartuchnik) Flash cartridge for Vectrex console that uses internal flash of LPC1769 for storage
  * [motoriplotter](https://github.com/svofski/motoriplotter) Motöri the Plotter source and design files
+ * [mahponk](https://github.com/svofski/mahponk) FPGA Pong using ancient Altera Flex FPGA
