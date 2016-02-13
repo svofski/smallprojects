@@ -12,3 +12,4 @@ Some of these projects may have been moved to dedicated repos for easier access:
  * [cartuchnik](https://github.com/svofski/cartuchnik) Flash cartridge for Vectrex console that uses internal flash of LPC1769 for storage
  * [motoriplotter](https://github.com/svofski/motoriplotter) Motöri the Plotter source and design files
  * [mahponk](https://github.com/svofski/mahponk) FPGA Pong using ancient Altera Flex FPGA
+ * [spdif-dac](https://github.com/svofski/spdif-dac) CS8416+AD1955 SPDIF DAC
